@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ZeroPyrozen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome to my GitHub Profile
 
-<!---
-ZeroPyrozen/ZeroPyrozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi my name is Pyrozen, I'm currently work as programmer at IT Division Bina Nusantara.
+
+## Education
+
+- Game Application and Technology Major, Bina Nusantara University (2017-2022, Bachelor of Science)
+
+## Professional Experience
+
+- Programmer, IT Division Bina Nusantara (2020-Present)
+- Junior Programmer, IT Division Bina Nusantara (2019-2020)
+
+## Skills
+
+- .NET Development (C#, ASP .NET Web Form, and ASP .NET Core)
+- React JS
+- SQL Server Database Management
