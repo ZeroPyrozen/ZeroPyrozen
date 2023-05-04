@@ -1,9 +1,10 @@
 # Welcome to my GitHub Profile
 
-Hi my name is Pyrozen, I'm currently work as programmer at IT Division Bina Nusantara.
+Hi my name is Pyrozen, I'm currently work as Senior Programmer at IT Division Bina Nusantara.
 
 ## Education
 
+- Data Science Major, Bina Nusantara University (2023-Present, Master of Science)
 - Game Application and Technology Major, Bina Nusantara University (2017-2022, Bachelor of Science)
 
 ## Professional Experience
