@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
 
-Hi my name is Pyrozen, I'm currently work as Senior Programmer at IT Division Bina Nusantara.
+Hi my name is Pyrozen, I'm currently work as Senior .NET Developer at The Software Practice.
 
 ## Education
 
@@ -9,11 +9,14 @@ Hi my name is Pyrozen, I'm currently work as Senior Programmer at IT Division Bi
 
 ## Professional Experience
 
-- Programmer, IT Division Bina Nusantara (2020-Present)
+- Senior .NET Developer, The Software Practice (2023-Present)
+- Senior Programmer, IT Division Bina Nusantara (2023)
+- Programmer, IT Division Bina Nusantara (2020-2023)
 - Junior Programmer, IT Division Bina Nusantara (2019-2020)
 
 ## Skills
 
 - .NET Development (C#, ASP .NET Web Form, and ASP .NET Core)
 - React JS
+- Angular
 - SQL Server Database Management
