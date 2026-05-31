@@ -4,7 +4,6 @@ Hi my name is Pyrozen, I'm currently work as Senior .NET Developer at The Softwa
 
 ## Education
 
-- Data Science Major, Bina Nusantara University (2023-Present, Master of Science)
 - Game Application and Technology Major, Bina Nusantara University (2017-2022, Bachelor of Science)
 
 ## Professional Experience
@@ -18,5 +17,9 @@ Hi my name is Pyrozen, I'm currently work as Senior .NET Developer at The Softwa
 
 - .NET Development (C#, ASP .NET Web Form, and ASP .NET Core)
 - React JS
-- Angular
 - SQL Server Database Management
+- Amazon Web Service (S3, SQS, Lambda, etc)
+- MySQL
+- Docker
+- Unity Game Engine
+- Godot Game Engine
