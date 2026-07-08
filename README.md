@@ -1,25 +1,19 @@
-# Welcome to my GitHub Profile
+# Hi, I'm William (Pyrozen) 👋
 
-Hi my name is Pyrozen, I'm currently work as Senior .NET Developer at The Software Practice.
+Senior .NET Developer at The Software Practice — I build enterprise web
+applications and cloud services with C# and AWS.
 
-## Education
+## 🔧 What I work with
+- **Backend:** C#, ASP.NET Core, ASP.NET Web Forms, REST APIs
+- **Cloud:** AWS (Lambda, S3, SQS), Docker
+- **Data:** SQL Server, MySQL
+- **Frontend:** React
+- **Game dev, for fun:** Unity, Godot
 
-- Game Application and Technology Major, Bina Nusantara University (2017-2022, Bachelor of Science)
+## 📌 Featured work
+- [osb](https://github.com/ZeroPyrozen/osb) — website for osu! Storyboard Banquet, a community event (C# / ASP.NET)
+- [aws-dotnet-pipeline](#) — serverless file pipeline: API → S3 → SQS → .NET 8 Lambda, CI/CD with GitHub Actions *(in progress)*
+- [Traffic-Tap](https://github.com/ZeroPyrozen/Traffic-Tap) — rhythm game where you tap traffic to the beat
 
-## Professional Experience
-
-- Senior .NET Developer, The Software Practice (2023-Present)
-- Senior Programmer, IT Division Bina Nusantara (2023)
-- Programmer, IT Division Bina Nusantara (2020-2023)
-- Junior Programmer, IT Division Bina Nusantara (2019-2020)
-
-## Skills
-
-- .NET Development (C#, ASP .NET Web Form, and ASP .NET Core)
-- React JS
-- SQL Server Database Management
-- Amazon Web Service (S3, SQS, Lambda, etc)
-- MySQL
-- Docker
-- Unity Game Engine
-- Godot Game Engine
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/william-oky/) · Jakarta, Indonesia
